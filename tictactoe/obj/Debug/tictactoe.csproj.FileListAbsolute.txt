@@ -1,0 +1,10 @@
+C:\RumenD\tictactoe\tictactoe\bin\Debug\tictactoe.exe.config
+C:\RumenD\tictactoe\tictactoe\bin\Debug\tictactoe.exe
+C:\RumenD\tictactoe\tictactoe\bin\Debug\tictactoe.pdb
+C:\RumenD\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.AssemblyReference.cache
+C:\RumenD\tictactoe\tictactoe\obj\Debug\tictactoe.TicTacToe.resources
+C:\RumenD\tictactoe\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+C:\RumenD\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.cache
+C:\RumenD\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.CoreCompileInputs.cache
+C:\RumenD\tictactoe\tictactoe\obj\Debug\tictactoe.exe
+C:\RumenD\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
